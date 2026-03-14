@@ -21,6 +21,8 @@
 
 🔗 [View Live Experiment Results](https://wandb.ai/patel-heet-northeastern-university/Lab1-wine-quality-mlops/reports/heet-s-wandb-lab--VmlldzoxNjIwMTgyMw?accessToken=5ezowkir6al0l9izvs0omah04zij40yhrtjrnpml70jml7sn54qtr86i2vlxb86g)
 
+<img width="1320" height="960" alt="Image" src="https://github.com/user-attachments/assets/ca621956-03ba-496d-a428-96bfd4e8f923" />
+
 ---
 
 ## 🖥️ How to Recreate Results from Scratch
