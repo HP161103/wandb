@@ -22,6 +22,13 @@
 🔗 [View Live Experiment Results](https://wandb.ai/patel-heet-northeastern-university/Lab1-wine-quality-mlops/reports/heet-s-wandb-lab--VmlldzoxNjIwMTgyMw?accessToken=5ezowkir6al0l9izvs0omah04zij40yhrtjrnpml70jml7sn54qtr86i2vlxb86g)
 
 <img width="1320" height="960" alt="Image" src="https://github.com/user-attachments/assets/ca621956-03ba-496d-a428-96bfd4e8f923" />
+<img width="1522" height="389" alt="Image" src="https://github.com/user-attachments/assets/be7ca545-5551-478a-bcd9-036c6d127278" />
+<img width="920" height="491" alt="Image" src="https://github.com/user-attachments/assets/2dded102-1403-4fca-8798-41d2f94fa9a0" />
+<img width="1023" height="609" alt="Image" src="https://github.com/user-attachments/assets/73d09484-f6bb-4996-bb08-684ad477401c" />
+<img width="955" height="366" alt="Image" src="https://github.com/user-attachments/assets/eb2b0044-d88b-490c-98ad-6674ac165fc6" />
+<img width="1062" height="299" alt="Image" src="https://github.com/user-attachments/assets/54f2d7d2-438e-466a-b583-f46d6b483014" />
+<img width="1041" height="303" alt="Image" src="https://github.com/user-attachments/assets/452ae80b-311a-476c-99cd-618682cb1e03" />
+<img width="947" height="117" alt="Image" src="https://github.com/user-attachments/assets/60e6350d-d097-4799-9346-83aa4a259f75" />
 
 ---
 
